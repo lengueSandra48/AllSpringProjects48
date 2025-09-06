@@ -1,0 +1,15 @@
+#spring.application.name=devise-converter
+
+server:
+  port: 8080
+
+api:
+  exchangerates:
+    api-key: kqwSvEtFS6spjXpXvaVwQ1CFEdjMZOZ8
+
+springdoc:
+  api-docs:
+    enabled: true
+  swagger-ui:
+    enabled: true
+    path: /swagger-ui.html

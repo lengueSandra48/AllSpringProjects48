@@ -1,0 +1,23 @@
+server.port: 8080
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/todolist
+    username: postgres
+    password: password
+    driver-class-name: org.postgresql.Driver
+
+
+
+  ## Specify DBMS
+  jpa:
+    database: postgresql
+    show-sql: false
+    # Hibernate DDL Auto (create, create-drop, update)
+    hibernate:
+      ddl-auto: create
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+
+

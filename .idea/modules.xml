@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/allSpringProjects48.iml" filepath="$PROJECT_DIR$/allSpringProjects48.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gestion-des-utilisateurs/Gestion-des-utilisateurs/Gestion-des-utilisateurs.iml" filepath="$PROJECT_DIR$/Gestion-des-utilisateurs/Gestion-des-utilisateurs/Gestion-des-utilisateurs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/allSpringProjects48.iml" filepath="$PROJECT_DIR$/.idea/allSpringProjects48.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blog-api/blog-api/demo.iml" filepath="$PROJECT_DIR$/blog-api/blog-api/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Product-Inventory/Product-Inventory/demo (1) (com.Product-Inventory).iml" filepath="$PROJECT_DIR$/Product-Inventory/Product-Inventory/demo (1) (com.Product-Inventory).iml" />
+      <module fileurl="file://$PROJECT_DIR$/devise-converter/devise-converter/devise-converter.iml" filepath="$PROJECT_DIR$/devise-converter/devise-converter/devise-converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToDoList/ToDoList/toDoList.iml" filepath="$PROJECT_DIR$/ToDoList/ToDoList/toDoList.iml" />
     </modules>
   </component>
 </project>
